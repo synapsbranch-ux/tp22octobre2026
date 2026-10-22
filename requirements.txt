@@ -1,0 +1,6 @@
+fastapi[standard]
+pymongo
+redis
+pyjwt
+pwdlib[argon2]
+python-dotenv
